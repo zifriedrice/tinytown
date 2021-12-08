@@ -1,3 +1,3 @@
-/// @description Relase right arrow key
+/// @description Release Right arrow
 
 moveRight = 0;
